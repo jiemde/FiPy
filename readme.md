@@ -11,10 +11,12 @@ The PySense reports humidty, temperature, barometric pressure, ambient light, pi
 These are combined with GPS coordinates into a packed Hex payload.
 
 Kotahi provide the gateway for LoRa (and I also have my own single channel packet forwarder
-[Single Channel Packet Forwarder Raspberry Pi Hat][hat] .
+[Single Channel Packet Forwarder Raspberry Pi Hat][hat] . 
 
 [android]: http://www.meowsbox.com/en/btgps
 [hat]: http://wiki.dragino.com/index.php?title=Lora/GPS_HAT
+
+I also have a  Things Newtork multichannel LoRa gateway on AU915.
 
 ## Folder structure
 
